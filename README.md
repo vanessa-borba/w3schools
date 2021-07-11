@@ -28,7 +28,7 @@
 ######		<h6>Afaste seus pés da maldade.</h6>
 #				
 ##		<h2>Paragráfos</h2>
-#		<p style="font-size:16px; color:lightgrey" >"Os parágrafos servem para escrever textos na página."</p>
+#		<p font-size:16px; color:lightgrey >"Os parágrafos servem para escrever textos na página."</p>
 #	
 #		<pre>
 #		<h3>Exagerado <br>		
