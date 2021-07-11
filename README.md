@@ -1,10 +1,7 @@
 #       <h1 >APRENDENDO HTML <sup>na prática</sup>
 #		<img src="images/ok.png" alt="texto alternativo da imagem" width="200" height="200"></h1>
-#		<br>
 #		<h1>Sumário</h1>
-#		<br>
-#		<ul>
-#####		<li><a href="#cabecalhos">Cabeçalhos</a></li>
+#####		<ul><li><a href="#cabecalhos">Cabeçalhos</a></li>
 #####		<li><a href="#paragrafos">Parágrafos</a></li>
 #####		<li><a href="#links">Links</a></li>
 #####		<li><a href="#imagens">Imagens</a></li>
@@ -28,53 +25,53 @@
 ######		<h6>Afaste seus pés da maldade.</h6>
 #				
 ##		<h2>Paragráfos</h2>
-######		<p> "Os parágrafos servem para escrever textos na página."</p>
-#	
-######		<pre>
-#		<h3>Exagerado <br>		
-#		Canção de Cazuza</h3>
-#		<cite>	
-#		"Amor da minha vida
-#		Daqui até a eternidade
-#		Nossos destinos foram traçados na maternidade
-#		Paixão cruel, desenfreada
-#		Te trago mil rosas roubadas
-#		Pra desculpar minhas mentiras, minhas mancadas
-#	
-#		Exagerado
-#		Jogado aos teus pés, eu sou mesmo exagerado
-#		Adoro um amor inventado
-#		Eu nunca mais vou respirar
-#		Se você não me notar
-#		Eu posso até morrer de fome
-#		Se você não me amar
-#		Por você eu largo tudo
-#		Vou mendigar, roubar, matar
-#		Até nas coisas mais banais
-#		Pra mim é tudo ou nunca mais
-#		
-#		Exagerado
-#		Jogado aos teus pés, eu sou mesmo exagerado
-#		Adoro um amor inventado
-#		E por você eu largo tudo
-#		Carreira, dinheiro, canudo
-#		Até nas coisas mais banais
-#		Pra mim é tudo ou nunca mais
-#		
-#		Exagerado
-#		Jogado aos teus pés, eu sou mesmo exagerado
-#		Adoro um amor inventado
-#		Jogado aos teus pés com mil rosas roubadas
-#		
-#		Exagerado
-#		Eu adoro um amor inventado
-#		Jogado aos teus pés, baby baby
-#		Eu sou mesmo exagerado
-#		Adoro um amor inventado."
-#		</cite>
-#
-#			<img src="images/seduzindo.png" alt="seduzindo" style="float=left; width:300; height=350;">
-#		</pre>
+#####		<p> "Os parágrafos servem para escrever textos na página."</p>
+#####	
+#####	<pre>
+#####		<h3>Exagerado <br>		
+#####		Canção de Cazuza</h3>
+#####		<cite>	
+#####		"Amor da minha vida
+#####		Daqui até a eternidade
+#####		Nossos destinos foram traçados na maternidade
+#####		Paixão cruel, desenfreada
+#####		Te trago mil rosas roubadas
+#####		Pra desculpar minhas mentiras, minhas mancadas
+#####	
+#####		Exagerado
+#####		Jogado aos teus pés, eu sou mesmo exagerado
+#####		Adoro um amor inventado
+#####		Eu nunca mais vou respirar
+#####		Se você não me notar
+#####		Eu posso até morrer de fome
+#####		Se você não me amar
+#####		Por você eu largo tudo
+#####		Vou mendigar, roubar, matar
+#####		Até nas coisas mais banais
+#####		Pra mim é tudo ou nunca mais
+#####		
+#####		Exagerado
+#####		Jogado aos teus pés, eu sou mesmo exagerado
+#####		Adoro um amor inventado
+#####		E por você eu largo tudo
+#####		Carreira, dinheiro, canudo
+#####		Até nas coisas mais banais
+#####		Pra mim é tudo ou nunca mais
+#####		
+#####		Exagerado
+#####		Jogado aos teus pés, eu sou mesmo exagerado
+#####		Adoro um amor inventado
+#####		Jogado aos teus pés com mil rosas roubadas
+#####		
+#####		Exagerado
+#####		Eu adoro um amor inventado
+#####		Jogado aos teus pés, baby baby
+#####		Eu sou mesmo exagerado
+#####		Adoro um amor inventado."
+#####		</cite>
+#####
+#####			<img src="images/seduzindo.png" alt="seduzindo" float=left width:"300" height="350">
+#	</pre>
 
 #		<h2 id="links">Links</h2>
 #		<a href="headers-pink.html"> Clique aqui para ver o fundo mudar para Rosa. :) </a>
@@ -82,13 +79,11 @@
 
 #		<h2 id="imagens">Imagens</h2>
 #				
-#		<img src="https://media.giphy.com/media/3Q1qZRCN4oXzW/giphy.gif" alt="bmo" style="width:400px; height:300px;">
-#		<img src="https://media.giphy.com/media/VN36z61tPoXsY/giphy.gif" alt="bmo" style="width:400px; height:300px;">
-#		<img src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" alt="bmo" style="width:400px; height:300px;">
+#		<img src="https://media.giphy.com/media/3Q1qZRCN4oXzW/giphy.gif" alt="bmo" style="width:400px; height:300px;"><img src="https://media.giphy.com/media/VN36z61tPoXsY/giphy.gif" alt="bmo" style="width:400px; height:300px;"><img src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" alt="bmo" style="width:400px; height:300px;">
 #		
 #		<h3> Mapa de Imagens</h3>
 #		<p>Clique nos personagens para conhece-los melhor!</p> 
-#		<img src="images/dbz.jpg" style="width: 601px; higth: 343px;" alt="Dragon Ball Z" usemap="#dbzmap">
+#		<img src="images/dbz.jpg" width: "601" higth: "343" alt="Dragon Ball Z" usemap="#dbzmap">
 #		<map name="dbzmap">
 #			<area shape="rect" coords="52,53,207,284" alt"Chaos, Tenshinhan, Mestre Kame, Kuririn" href="dbzleft.html" target="_blank">
 #			<area shape="rect" coords="419,56,534,290" alt"Pual, Yamcha, Bulma, Oolong" href="dbzright.html" target="_blank">
