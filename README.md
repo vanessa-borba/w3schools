@@ -1,41 +1,24 @@
-<DOCTYPE html>
-<html lang="pt-br">
+#markdown		<h1 >APRENDENDO HTML <sup>na prática</sup>
+#		<img src="images/ok.png" alt="texto alternativo da imagem" width="200" height="200"></h1>
+#		<br>
 
-	<head>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta charset="utf-8">
-		<link rel="stylesheet" href="style.css" href="./images">
-		<title>HTML na prática!</title>
-		<!--Essa página foi criada com o intuito de exibir as tags html em que aprendi! - Vanessa Zac -->
-	</head>
-	
-	<body">
-		
-		<!-----------------------APRENDENDO HTML NA PRÁTICA----------------------->
-		<h1 >APRENDENDO HTML <sup>na prática</sup>
-		<img src="images/ok.png" alt="texto alternativo da imagem" width="200" height="200"></h1>
-		<br>
-		
-		<!-----------------------SUMÁRIO----------------------->
-		<h1>Sumário</h1>
-		<br>
-		<ul">
-		<li><a href="#cabecalhos">Cabeçalhos</a></li>
-		<li><a href="#paragrafos">Parágrafos</a></li>
-		<li><a href="#links">Links</a></li>
-		<li><a href="#imagens">Imagens</a></li>
-		<li><a href="#formatacao">Elementos de Formatação</a></li>
-		<li><a href="#citacoes">Elementos de Citações</a></li>
-		<li><a href="#abreviacoes">Abreviações</a></li>
-		<li><a href="#tabelas">Tabelas</a></li>
-		<li><a href="#contato">Informações de Contato</a></li>
-		</ul>
+#		<h1>Sumário</h1>
+#		<br>
+#		<ul>
+1.		<li><a href="#cabecalhos">Cabeçalhos</a></li>
+2.		<li><a href="#paragrafos">Parágrafos</a></li>
+3.		<li><a href="#links">Links</a></li>
+4.		<li><a href="#imagens">Imagens</a></li>
+5.		<li><a href="#formatacao">Elementos de Formatação</a></li>
+6.		<li><a href="#citacoes">Elementos de Citações</a></li>
+7.		<li><a href="#abreviacoes">Abreviações</a></li>
+8.		<li><a href="#tabelas">Tabelas</a></li>
+9.		Informações de Contato
 
-		<!-----------------------HIERARQUIA DOS TÍTULOS----------------------->
-		<h2 id="cabecalhos">Cabeçalhos</h2>
+#		<h2 id="cabecalhos">Cabeçalhos</h2>
 		
-		<h1>Acima de tudo guarde o seu coração, 
-		pois dele depende toda a sua vida.</h1>
+#		<h1>Acima de tudo guarde o seu coração, 
+#		pois dele depende toda a sua vida.</h1>
 		
 		<h2>Afaste da sua boca as palavras peversas;
 		fique dos lábios, longe, a maldade.</h2>
