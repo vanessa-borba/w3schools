@@ -1,6 +1,4 @@
-#markdown		
-
-#<h1 >APRENDENDO HTML <sup>na prática</sup>
+#       <h1 >APRENDENDO HTML <sup>na prática</sup>
 #		<img src="images/ok.png" alt="texto alternativo da imagem" width="200" height="200"></h1>
 #		<br>
 #		<h1>Sumário</h1>
@@ -17,25 +15,20 @@
 #		Informações de Contato
 #		<h2 id="cabecalhos">Cabeçalhos</h2>
 #	
-#		<h1>Acima de tudo guarde o seu coração, 
-#		pois dele depende toda a sua vida.</h1>
+#		<h1>Acima de tudo guarde o seu coração,pois dele depende toda a sua vida.</h1>
 #	
-##		<h2>Afaste da sua boca as palavras peversas;
-#		fique dos lábios, longe, a maldade.</h2>
+##		<h2>Afaste da sua boca as palavras peversas; fique dos lábios, longe, a maldade.</h2>
 #	
-###		<h3>Olhe sempre para a frente,
-#		mantenha o olhar fixo no que está adiante de você.</h3>
+###		<h3>Olhe sempre para a frente, mantenha o olhar fixo no que está adiante de você.</h3>
 #	
-####		<h4>Veja bem por onde anda,
-#		e os seus passos serão seguros.<h4>
+####		<h4>Veja bem por onde anda,	e os seus passos serão seguros.<h4>
 #	
-#####		<h5>Não se desvie nem para a direita, 
-#		nem para a esquerda;</h5>
+#####		<h5>Não se desvie nem para a direita, nem para a esquerda;</h5>
 #		
 ######		<h6>Afaste seus pés da maldade.</h6>
 #				
 ##		<h2>Paragráfos</h2>
-#		<p>"Os parágrafos servem para escrever textos na página."</p>
+#		<p style="font-size:16px; color:lightgrey" >"Os parágrafos servem para escrever textos na página."</p>
 #	
 #		<pre>
 #		<h3>Exagerado <br>		
