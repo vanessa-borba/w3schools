@@ -4,14 +4,14 @@
 #		<h1>Sumário</h1>
 #		<br>
 #		<ul>
-#		<li><a href="#cabecalhos">Cabeçalhos</a></li>
-#		<li><a href="#paragrafos">Parágrafos</a></li>
-#		<li><a href="#links">Links</a></li>
-#		<li><a href="#imagens">Imagens</a></li>
-#		<li><a href="#formatacao">Elementos de Formatação</a></li>
-#		<li><a href="#citacoes">Elementos de Citações</a></li>
-#		<li><a href="#abreviacoes">Abreviações</a></li>
-#		<li><a href="#tabelas">Tabelas</a></li>
+#####		<li><a href="#cabecalhos">Cabeçalhos</a></li>
+#####		<li><a href="#paragrafos">Parágrafos</a></li>
+#####		<li><a href="#links">Links</a></li>
+#####		<li><a href="#imagens">Imagens</a></li>
+#####		<li><a href="#formatacao">Elementos de Formatação</a></li>
+#####		<li><a href="#citacoes">Elementos de Citações</a></li>
+#####		<li><a href="#abreviacoes">Abreviações</a></li>
+#####		<li><a href="#tabelas">Tabelas</a></li>
 #		Informações de Contato
 #		<h2 id="cabecalhos">Cabeçalhos</h2>
 #	
@@ -28,9 +28,9 @@
 ######		<h6>Afaste seus pés da maldade.</h6>
 #				
 ##		<h2>Paragráfos</h2>
-#		<p font-size:16px; color:lightgrey >"Os parágrafos servem para escrever textos na página."</p>
+######		<p> "Os parágrafos servem para escrever textos na página."</p>
 #	
-#		<pre>
+######		<pre>
 #		<h3>Exagerado <br>		
 #		Canção de Cazuza</h3>
 #		<cite>	
