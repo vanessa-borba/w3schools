@@ -73,29 +73,21 @@
 #####			<img src="images/seduzindo.png" alt="seduzindo" fwidth="200" height="200">
 #	</pre>
 
-#		<h2 id="links">Links</h2>
-#		<a href="headers-pink.html"> Clique aqui para ver o fundo mudar para Rosa. :) </a>
+##		<h2 id="links">Links</h2>
+####	<a href="headers-pink.html"> Clique aqui para ver o fundo mudar para Rosa. :) </a>
 #		
 
-#		<h2 id="imagens">Imagens</h2>
+##		<h2 id="imagens">Imagens</h2>
 #				
-#		<img src="https://media.giphy.com/media/3Q1qZRCN4oXzW/giphy.gif" alt="bmo" width="200" height="200"><img src="https://media.giphy.com/media/VN36z61tPoXsY/giphy.gif" alt="bmo" width="200" height="200"><img src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" alt="bmo" width="200" height="200">
-#		
-#		<h3> Mapa de Imagens</h3>
-#		<p>Clique nos personagens para conhece-los melhor!</p> 
-#		<img src="images/dbz.jpg" width="200" height="200" alt="Dragon Ball Z" usemap="#dbzmap">
-#		<map name="dbzmap">
-#			<area shape="rect" coords="52,53,207,284" alt"Chaos, Tenshinhan, Mestre Kame, Kuririn" href="dbzleft.html" target="_blank">
-#			<area shape="rect" coords="419,56,534,290" alt"Pual, Yamcha, Bulma, Oolong" href="dbzright.html" target="_blank">
-#			<area shape="circle" coords="253,78,391,260" alt"Goku" href="dbzcenter.html" target="_blank">
-#			</map>
-#		
-#
-#		<h2 id="formatacao">Elementos de Formatação</h2>
-#		<p><b>-"Amor igual ao seu eu nunca mais terei;
-#		   	Amor que eu nunca vi igual, eu nunca mais verei."
-#		</b><br>
-#		
+#		<img src="https://media.giphy.com/media/3Q1qZRCN4oXzW/giphy.gif" alt="bmo" width="200" height="200">
+#   	<img src="https://media.giphy.com/media/VN36z61tPoXsY/giphy.gif" alt="bmo" width="200" height="200">
+#		<img src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" alt="bmo" width="200" height="200">		
+###		<h3> Mapa de Imagens</h3>
+#####	<p>Clique nos personagens para conhece-los melhor!</p> 
+#		<img src="images/dbz.jpg" width="400" height="200" alt="Dragon Ball Z" usemap="#dbzmap">
+##		<h2 id="formatacao">Elementos de Formatação</h2>
+#####		<p><b>-"Amor igual ao seu eu nunca mais terei;
+#####		   	Amor que eu nunca vi igual, eu nunca mais verei."
 #		<strong>-Texto importante </strong><br>
 #		<i> - Texto em itálico </i><br>
 #		<em> - Texto enfatizado </em><br>
@@ -226,17 +218,6 @@
 #	</select><br><br>
 #	<button type="button" onclick="alert("Formulário em manuntenção")>Enviar Formulário!</button>		
 #	</form>
-
-#	<h2 id="svg">SVG da bandeira do Brasil</h2>
-#	<svg width="300" height="200">
-#		<rect width="500" height="300" style="fill:green;"/> 	
-#	<svg width="300" height="200">
-# 			<svg width="300" height="200">
-# 			<polygon points="150,5 5,100 150,195 295,100 295,100"
-#			 style="fill:yellow;fill-rule:evenodd;" />
-#		<svg width="300" height="200">
-# 			<circle cx="150" cy="100" r="70" fill="blue" />
-#	</svg>	
 
 #	<h2 id="contato">Informações de Contato</h2>
 #		<p>As informações de contato podem ser um endereço de e-mail, URL, endereço físico, número de telefone, identificador de 			#mídia social, etc.</p>
