@@ -1,4 +1,6 @@
-#markdown		<h1 >APRENDENDO HTML <sup>na prática</sup>
+#markdown		
+
+#<h1 >APRENDENDO HTML <sup>na prática</sup>
 #		<img src="images/ok.png" alt="texto alternativo da imagem" width="200" height="200"></h1>
 #		<br>
 #		<h1>Sumário</h1>
@@ -18,23 +20,21 @@
 #		<h1>Acima de tudo guarde o seu coração, 
 #		pois dele depende toda a sua vida.</h1>
 #	
-#		<h2>Afaste da sua boca as palavras peversas;
+##		<h2>Afaste da sua boca as palavras peversas;
 #		fique dos lábios, longe, a maldade.</h2>
 #	
-#		<h3>Olhe sempre para a frente,
+###		<h3>Olhe sempre para a frente,
 #		mantenha o olhar fixo no que está adiante de você.</h3>
 #	
-#		<h4>Veja bem por onde anda,
+####		<h4>Veja bem por onde anda,
 #		e os seus passos serão seguros.<h4>
 #	
-#		<h5>Não se desvie nem para a direita, 
+#####		<h5>Não se desvie nem para a direita, 
 #		nem para a esquerda;</h5>
 #		
-#		<h6>Afaste seus pés da maldade.</h6>
-#		
-#		<!-----------------------PARAGRÁFOS----------------------->
-#		
-#		<h2>Paragráfos</h2>
+######		<h6>Afaste seus pés da maldade.</h6>
+#				
+##		<h2>Paragráfos</h2>
 #		<p>"Os parágrafos servem para escrever textos na página."</p>
 #	
 #		<pre>
@@ -82,11 +82,11 @@
 #
 #			<img src="images/seduzindo.png" alt="seduzindo" style="float=left; width:300; height=350;">
 #		</pre>
-#		<!-----------------------LINKS----------------------->
+
 #		<h2 id="links">Links</h2>
 #		<a href="headers-pink.html"> Clique aqui para ver o fundo mudar para Rosa. :) </a>
 #		
-#		<!-----------------------IMAGENS----------------------->
+
 #		<h2 id="imagens">Imagens</h2>
 #				
 #		<img src="https://media.giphy.com/media/3Q1qZRCN4oXzW/giphy.gif" alt="bmo" style="width:400px; height:300px;">
@@ -102,7 +102,6 @@
 #			<area shape="circle" coords="253,78,391,260" alt"Goku" href="dbzcenter.html" target="_blank">
 #			</map>
 #		
-#		<!-----------------------FORMATAÇÕES----------------------->
 #
 #		<h2 id="formatacao">Elementos de Formatação</h2>
 #		<p><b>-"Amor igual ao seu eu nunca mais terei;
@@ -119,8 +118,6 @@
 #		<sub> - Texto subscrito </sub><br>
 #		<sup> - Texto sobrescrito </sup>
 #		
-#		<!-----------------------CITAÇÕES----------------------->
-#		
 #		<h2 id="citacoes">Elementos de Citações</h2>
 #		<p><strong>Essa é uma citação de outro website:</strong></p>
 #		<blockquote cite="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/blockquote">
@@ -130,14 +127,12 @@
 #		<p>O site https://developer.mozilla.org/ diz: <q>O elemento 'q' pode ser usado tanto para citações em linha quanto para citações de #rigem.</q><br>
 #		Essa tag acrescenta aspas no texto.</p>
 #		
-#		<!-----------------------ABREVIAÇÕES----------------------->
 #		
 #		<h2 id="abreviacoes">Abreviações</h2>
 #		<p>As abreviações de marcação, no <abbr title="Linguagem de Marcação de HiperTexto">HTML</abbr>, podem fornecer informações úteis para #avegadores, sistemas de tradução e mecanismos de pesquisa.
 #
 #<b>**Dica</b>: passe o mouse sobre a abreviatura no texto acima para saber o seu significado.</p>
 #
-#		<!-----------------------TABELAS----------------------->
 #		
 #		<h2 id="tabelas">Tabelas</h2>
 #		<table>
@@ -218,14 +213,12 @@
 #			</td>
 #		</tr>
 #		</table>
-#	<!-----------------------IFRAME----------------------->
 #	
 #	<h2 id="contato">Iframe</h2>
 #	<iframe width="645" height="363" src="https://www.youtube.com/embed/7AQbqSTbSPo" title="YouTube video player" frameborder="0" #llow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #	<iframe width="645" height="363" src="https://www.youtube.com/embed/tgbNymZ7vqY?controls=0">
 #	</iframe>
 #	
-#	<!-----------------------FORMULÁRIOS---------------------->
 #	<h2 id="formulario">Formulários</h2>
 #	<form action="action_page.php" target="_blank">
 #	<label for="primeironome">Nome:</label><br>
@@ -245,8 +238,7 @@
 #	</select><br><br>
 #	<button type="button" onclick="alert("Formulário em manuntenção")>Enviar Formulário!</button>		
 #	</form>
-#	<!-----------------------SVG---------------------->
-#	
+
 #	<h2 id="svg">SVG da bandeira do Brasil</h2>
 #	<svg width="300" height="200">
 #		<rect width="500" height="300" style="fill:green;"/> 	
@@ -257,8 +249,7 @@
 #		<svg width="300" height="200">
 # 			<circle cx="150" cy="100" r="70" fill="blue" />
 #	</svg>	
-#	<!-----------------------INFORMAÇÕES DE CONTATO----------------------->
-#	
+
 #	<h2 id="contato">Informações de Contato</h2>
 #		<p>As informações de contato podem ser um endereço de e-mail, URL, endereço físico, número de telefone, identificador de 			#mídia social, etc.</p>
 #	<address>
@@ -270,5 +261,5 @@
 #		</address>	
 #					
 #</body>
-#/html>	
+#</html>	
 #
