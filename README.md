@@ -70,7 +70,7 @@
 #####		Adoro um amor inventado."
 #####		</cite>
 #####
-#####			<img src="images/seduzindo.png" alt="seduzindo" float=left width:"300" height="350">
+#####			<img src="images/seduzindo.png" alt="seduzindo" fwidth="200" height="200">
 #	</pre>
 
 #		<h2 id="links">Links</h2>
@@ -79,11 +79,11 @@
 
 #		<h2 id="imagens">Imagens</h2>
 #				
-#		<img src="https://media.giphy.com/media/3Q1qZRCN4oXzW/giphy.gif" alt="bmo" style="width:400px; height:300px;"><img src="https://media.giphy.com/media/VN36z61tPoXsY/giphy.gif" alt="bmo" style="width:400px; height:300px;"><img src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" alt="bmo" style="width:400px; height:300px;">
+#		<img src="https://media.giphy.com/media/3Q1qZRCN4oXzW/giphy.gif" alt="bmo" width="200" height="200"><img src="https://media.giphy.com/media/VN36z61tPoXsY/giphy.gif" alt="bmo" width="200" height="200"><img src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" alt="bmo" width="200" height="200">
 #		
 #		<h3> Mapa de Imagens</h3>
 #		<p>Clique nos personagens para conhece-los melhor!</p> 
-#		<img src="images/dbz.jpg" width: "601" higth: "343" alt="Dragon Ball Z" usemap="#dbzmap">
+#		<img src="images/dbz.jpg" width="200" height="200" alt="Dragon Ball Z" usemap="#dbzmap">
 #		<map name="dbzmap">
 #			<area shape="rect" coords="52,53,207,284" alt"Chaos, Tenshinhan, Mestre Kame, Kuririn" href="dbzleft.html" target="_blank">
 #			<area shape="rect" coords="419,56,534,290" alt"Pual, Yamcha, Bulma, Oolong" href="dbzright.html" target="_blank">
@@ -248,6 +248,6 @@
 #		Brasil
 #		</address>	
 #					
-#</body>
-#</html>	
+# </body>
+# </html>	
 #
